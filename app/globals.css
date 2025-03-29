@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+* {
+  font-family: inter;
+}
+.font-ovo {
+  font-family: "Ovo", sans-serif;
+}
+.eric .active {
+  border-bottom: 1px;
+  border-bottom-color: white;
+}
+button {
+  cursor: pointer;
+}
+.lightHover:hover {
+  background-color: #fcf4ff;
+}
+.eric:active {
+  color: red;
+}
+.box-shadow {
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
