@@ -42,10 +42,7 @@ const Home = () => {
             <HiOutlineArrowLongRight className="text-2xl font-bold ml-3" />
           </button>
         </Link>
-        <button className="flex items-center border border-black  text-black px-10 py-3 rounded-4xl text-xl font-bold">
-          My Resume
-          <HiOutlineArrowDownTray className="text-2xl font-bold ml-3" />
-        </button>
+        
       </div>
     </div>
   );
